@@ -1,0 +1,15 @@
+
+Recursos Disponibles:
+[3, 3, 2]
+
+Demanda Máxima:
+[7, 5, 3]
+[3, 2, 2]
+[9, 0, 2]
+
+Asignacion:
+[2, 2, 2]
+[4, 3, 3]
+[3, 3, 2]
+
+¿Estado inicial seguro? ([True, True, True], [1, 2, 0])
